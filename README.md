@@ -1,2 +1,2 @@
 ## Income-Expanses System
-This is my miniproject from me
+ระบบทำรายรับ-รายจ่าย เขียนด้วยภาษา JAVA
